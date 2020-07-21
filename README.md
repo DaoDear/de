@@ -3,7 +3,7 @@
 สำหรับการอบรม 2 วัน
 
 ## DAY 1
-- Lab 1: Fast Data Import with Sqoop
+- [Lab 1: Fast Data Import with Sqoop](https://github.com/innosoft-mis/de/blob/master/lab/01.md)
 - Lab 2: Get Log Data with Flume
 - Lab 3: Kafka (Part 1)
 - Lab 3: Kafka (Part 2)
